@@ -1,0 +1,6 @@
+product_id,product_name,is_eligible
+p001,Quantum Laptop,true
+p002,Nebula Smartwatch,true
+p003,Orion Bluetooth Speaker,false
+p004,Galaxy Projector,true
+p005,Nova Desk Lamp,true
